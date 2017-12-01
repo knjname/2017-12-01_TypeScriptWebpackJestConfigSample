@@ -1,8 +1,8 @@
 {
   "scripts": {
     "dev": "webpack-dev-server",
-    "test": "jest --config ./jest.json",
-    "dev:test": "jest --config ./jest.json --watch"
+    "test": "jest",
+    "dev:test": "jest --watch"
   },
   "devDependencies": {
     "@types/html-webpack-plugin": "^2.30.1",
